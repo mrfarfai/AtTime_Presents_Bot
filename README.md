@@ -1,2 +1,4 @@
 # AtTime_Presents_Bot
 https://t.me/AtTime_Presents_Bot
+
+Telegram bot for creating greeting cards
